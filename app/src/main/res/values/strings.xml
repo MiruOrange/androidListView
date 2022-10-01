@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ListView4</string>
+    <string-array name="food_name">
+        <item>Black tea</item>
+        <item>French fries</item>
+        <item>Hamburger</item>
+        <item>Ice cream</item>
+        <item>KFC</item>
+    </string-array>
+    <integer-array name="food_price">
+        <item>100</item>
+        <item>80</item>
+        <item>150</item>
+        <item>90</item>
+        <item>200</item>
+    </integer-array>
+    <string-array name="food_pic">
+        <item>@drawable/blacktea</item>
+        <item>@drawable/french_fries</item>
+        <item>@drawable/hamburger_icon</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/kfc</item>
+    </string-array>
+    <string-array name="dessert_name">
+        <item>Mulffin</item>
+        <item>Pancake</item>
+        <item>Pizza</item>
+        <item>Waffle</item>
+    </string-array>
+    <integer-array name="dessert_price">
+        <item>100</item>
+        <item>120</item>
+        <item>140</item>
+        <item>160</item>
+    </integer-array>
+    <string-array name="dessert_pic">
+        <item>@drawable/mulffin</item>
+        <item>@drawable/pancake</item>
+        <item>@drawable/pizza_icon</item>
+        <item>@drawable/waffle</item>
+    </string-array>
+</resources>
