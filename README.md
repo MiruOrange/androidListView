@@ -1,7 +1,7 @@
 # <p align="center">androidListView</p>
 - 以Java撰寫的簡易點餐app
   - 使用技能 
-    - intend
+    - intent
     - listView
     - sqlite
     - android生命週期
